@@ -1,4 +1,4 @@
-package java.JavaSort;
+package javaChallenges.JavaSort;
 
 import java.util.*;
 

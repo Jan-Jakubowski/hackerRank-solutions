@@ -1,4 +1,4 @@
-package java.Java2DArray;
+package javaChallenges.Java2DArray;
 
 import java.io.*;
 import java.util.*;

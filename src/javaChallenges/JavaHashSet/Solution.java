@@ -1,4 +1,4 @@
-package java.JavaHashSet;
+package javaChallenges.JavaHashSet;
 
 import java.util.HashSet;
 import java.util.Scanner;

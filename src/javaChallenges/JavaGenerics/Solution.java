@@ -1,4 +1,4 @@
-package java.JavaGenerics;
+package javaChallenges.JavaGenerics;
 
 import java.util.Scanner;
 
