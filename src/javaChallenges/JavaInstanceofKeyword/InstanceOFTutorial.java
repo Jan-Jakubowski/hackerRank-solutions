@@ -3,7 +3,7 @@ package javaChallenges.JavaInstanceofKeyword;
 import java.util.*;
 
 
-public class Student{}
+class Student{}
 class Rockstar{   }
 class Hacker{}
 
